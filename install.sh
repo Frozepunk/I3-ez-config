@@ -13,3 +13,4 @@ cd rofi
 chmod +x setup.sh
 ./setup.sh
 wget https://raw.githubusercontent.com/Frozepunk/I3-ez-config/main/config
+wget https://raw.githubusercontent.com/Frozepunk/I3-ez-config/main/i3status.conf
