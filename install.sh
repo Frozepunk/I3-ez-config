@@ -12,4 +12,4 @@ git clone --depth=1 https://github.com/adi1090x/rofi.git
 cd rofi
 chmod +x setup.sh
 ./setup.sh
-wget https://github.com/Frozepunk/I3-ez-config/blob/main/config
+wget https://raw.githubusercontent.com/Frozepunk/I3-ez-config/main/config
